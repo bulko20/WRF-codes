@@ -46,5 +46,4 @@ prec_df['DateTime'] = pd.to_datetime(prec_df['DateTime'])
 prec_df.to_csv(r'C:\Users\pbuli\Desktop\WRF-things\CSV\precipitation_at_point.csv', index=False)
 
 
-
 # End of program
